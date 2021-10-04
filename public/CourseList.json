@@ -76,5 +76,44 @@
         "description": "Master Angular 12 (formerly \"Angular 2\") and build awesome, reactive web apps with the successor of Angular.js",
         "total_houre": 34,
         "lecture": 461
+    },
+    {
+        "key": 7,
+        "course_name": "User Experience Design Essentials - Adobe XD UI UX Design",
+        "instructor": "Daniel Walter Scott",
+        "courseimg": "https://img-c.udemycdn.com/course/240x135/1452908_8741_3.jpg",
+        "teacherimg": "https://img-c.udemycdn.com/user/200_H/11614232_b0fc.jpg",
+        "rating": 3.6,
+        "raters": 152761,
+        "price": 19.58,
+        "description": "Use XD to get a job in UI Design, User Interface, User Experience design, UX design & Web Design",
+        "total_houre": 14,
+        "lecture": 20
+    },
+    {
+        "key": 8,
+        "course_name": "Design Thinking in 3 Steps",
+        "instructor": "Alan Cooper",
+        "courseimg": "https://img-c.udemycdn.com/course/240x135/1065056_41ed_5.jpg",
+        "teacherimg": "https://img-c.udemycdn.com/user/200_H/30777482_4fac.jpg",
+        "rating": 4.6,
+        "raters": 15661,
+        "price": 12.58,
+        "description": "Understand your audience, envision a creative solution, and test your prototype",
+        "total_houre": 15,
+        "lecture": 25
+    },
+    {
+        "key": 9,
+        "course_name": "Google Sheets - The Comprehensive Masterclass",
+        "instructor": "Leila Gharani",
+        "courseimg": "https://img-c.udemycdn.com/course/240x135/3507196_a9be.jpg",
+        "teacherimg": "https://img-c.udemycdn.com/user/200_H/14088122_79ac_2.jpg",
+        "rating": 4.8,
+        "raters": 25661,
+        "price": 10.58,
+        "description": "Learn Google Sheets in 2021! Solve Complex Data Analysis Problems. Become an Expert: Learn Pivot Tables, QUERY & more",
+        "total_houre": 15,
+        "lecture": 25
     }
 ]
