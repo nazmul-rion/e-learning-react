@@ -1,0 +1,22 @@
+[
+    {
+        "key": 1,
+        "instructor_name": "Dr. Angela Yu",
+        "instractor_image": "https://img-c.udemycdn.com/user/200_H/31334738_a13c_2.jpg",
+        "description": "I'm Angela, I'm a developer with a passion for teaching. I'm the lead instructor at the London App Brewery, London's leading Programming Bootcamp. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer. I've been invited by companies such as Twitter, Facebook and Google to teach their employees.",
+        "total_student": "1,002,264",
+        "review": "342,579",
+        "rate": "4.7",
+        "course": 9
+    },
+    {
+        "key": 2,
+        "instructor_name": "Jose Portilla",
+        "instractor_image": "https://img-c.udemycdn.com/user/200_H/9685726_67e7_4.jpg",
+        "description": "Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and years of experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics, materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc. and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more. Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV.ees.",
+        "total_student": "2,486,213",
+        "review": "802,977",
+        "rate": "3.4",
+        "course": 6
+    }
+]

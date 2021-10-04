@@ -10,7 +10,7 @@ const Header = () => {
                 <div className="container-fluid">
                     <Link className="navbar-brand" to="/">
                         <img src={Logo} alt="..." className="d-inline-block align-text-top me-2" style={{ width: "30px", height: "30px" }} />
-                        E Learning</Link>
+                        <b>E Learning</b></Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
