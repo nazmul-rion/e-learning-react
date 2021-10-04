@@ -1,43 +1,44 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const Footer = () => {
     return (
-        <div class="container-fluid bg-highlighted">
+        <div className="container-fluid bg-highlighted">
 
 
             <footer
-                class="text-center text-lg-start text-white"
+                className="text-center text-lg-start text-white"
 
             >
 
-                <section class="d-flex justify-content-between p-4">
-                    <div class="me-5">
+                <section className="text-center p-4">
+                    <div>
                         <span>Get connected with us </span>
                     </div>
                     <div>
-                        <a href="" class="text-white me-4">
-                            <i class="fab fa-facebook-f"></i>
+                        <a href="https://www.facebook.com/nazmulrion1/" target="_blank" className="text-white me-4">
+                            <i className="fab fa-facebook-f"></i>
                         </a>
-                        <a href="" class="text-white me-4">
-                            <i class="fab fa-linkedin"></i>
+                        <a href="https://www.linkedin.com/in/nazmul-rion/" target="_blank" className="text-white me-4">
+                            <i className="fab fa-linkedin"></i>
                         </a>
-                        <a href="" class="text-white me-4">
-                            <i class="fab fa-github"></i>
+                        <a href="https://github.com/nazmul-rion/" target="_blank" className="text-white me-4">
+                            <i className="fab fa-github"></i>
                         </a>
                     </div>
 
                 </section>
 
-                <section class="">
-                    <div class="container text-center text-md-start mt-5">
+                <section className="">
+                    <div className="container text-center text-md-start mt-5">
 
-                        <div class="row mt-3">
+                        <div className="row mt-3">
 
-                            <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+                            <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
 
-                                <h6 class="text-uppercase fw-bold">E Learning</h6>
+                                <h6 className="text-uppercase fw-bold">E Learning</h6>
                                 <hr
-                                    class="mb-4 mt-0 d-inline-block mx-auto"
+                                    className="mb-4 mt-0 d-inline-block mx-auto"
 
                                 />
                                 <p>
@@ -46,64 +47,64 @@ const Footer = () => {
                             </div>
 
 
-                            <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+                            <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
 
-                                <h6 class="text-uppercase fw-bold">Courses</h6>
+                                <h6 className="text-uppercase fw-bold">Courses</h6>
                                 <hr
-                                    class="mb-4 mt-0 d-inline-block mx-auto"
+                                    className="mb-4 mt-0 d-inline-block mx-auto"
 
                                 />
                                 <p>
-                                    <a href="#" class="text-white text-decoration-none">Bootstrap</a>
+                                    <Link to="/course" className="text-white text-decoration-none">Bootstrap</Link>
                                 </p>
                                 <p>
-                                    <a href="#" class="text-white text-decoration-none">Mongo DB</a>
+                                    <Link to="/course" className="text-white text-decoration-none">Mongo DB</Link>
                                 </p>
                                 <p>
-                                    <a href="#" class="text-white text-decoration-none">PHP</a>
+                                    <Link to="/course" className="text-white text-decoration-none">PHP</Link>
                                 </p>
                                 <p>
-                                    <a href="#" class="text-white text-decoration-none">Firebase</a>
+                                    <Link to="/course" className="text-white text-decoration-none">Firebase</Link>
                                 </p>
                             </div>
 
 
 
-                            <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+                            <div className="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
 
-                                <h6 class="text-uppercase fw-bold">Useful links</h6>
+                                <h6 className="text-uppercase fw-bold">Useful links</h6>
                                 <hr
-                                    class="mb-4 mt-0 d-inline-block mx-auto"
+                                    className="mb-4 mt-0 d-inline-block mx-auto"
 
                                 />
                                 <p>
-                                    <a href="#!" class="text-white text-decoration-none">Your Account</a>
+                                    <Link to="/" className="text-white text-decoration-none">Your Account</Link>
                                 </p>
                                 <p>
-                                    <a href="#!" class="text-white text-decoration-none">Your Purchase</a>
+                                    <Link to="/" className="text-white text-decoration-none">Your Purchase</Link>
                                 </p>
                                 <p>
-                                    <a href="#!" class="text-white text-decoration-none">Leader Board</a>
+                                    <Link to="/" className="text-white text-decoration-none">Leader Board</Link>
                                 </p>
                                 <p>
-                                    <a href="#!" class="text-white text-decoration-none">Help</a>
+                                    <Link to="/" className="text-white text-decoration-none">Help</Link>
                                 </p>
                             </div>
-                            <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+                            <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
 
-                                <h6 class="text-uppercase fw-bold">Contact Us</h6>
+                                <h6 className="text-uppercase fw-bold">Contact Us</h6>
                                 <hr
-                                    class="mb-4 mt-0 d-inline-block mx-auto"
+                                    className="mb-4 mt-0 d-inline-block mx-auto"
 
                                 />
-                                <p><i class="fas fa-envelope mr-3"></i> nazmulrion16@gmail.com</p>
-                                <p><i class="fas fa-phone mr-3"></i> +8801611269298</p>
-                                <p><i class="fas fa-print mr-3"></i> + 21 555 666</p>
+                                <p><i className="fas fa-envelope mr-3"></i> nazmulrion16@gmail.com</p>
+                                <p><i className="fas fa-phone mr-3"></i> +8801611269298</p>
+                                <p><i className="fas fa-print mr-3"></i> + 21 555 666</p>
                             </div>
                         </div>
                     </div>
                 </section>
-                <div class="text-center p-3">
+                <div className="text-center p-3">
                     <small> &copy; 2021 Copyright <span className="fw-bold">Nazmul Rion</span></small>
                 </div>
 
