@@ -28,7 +28,7 @@ const TeacherCard = (props) => {
                                     <small className="text-muted pe-3"><i className="fas fa-user-graduate"></i>Total Students: <span className="text-danger fw-bold">{total_student}</span></small>
                                     <small className="text-muted">
                                         <i className="fas fa-book"></i>Total Course {course}    </small></p>
-                                <button className="btn btn-info fw-bold">View more </button>
+                                <button className="btn btn-info fw-bold">Follow </button>
                             </div>
                         </div>
                     </div>

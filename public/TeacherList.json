@@ -18,5 +18,75 @@
         "review": "802,977",
         "rate": "3.4",
         "course": 6
+    },
+    {
+        "key": 3,
+        "instructor_name": "Academind by Maximilian Schwarzmüller",
+        "instractor_image": "https://img-c.udemycdn.com/user/200_H/31926668_94e7_6.jpg",
+        "description": "Bundling the courses and know how of successful instructors, Academind strives to deliver high quality online education. Online Education, Real-Life Success - that's what Academind stands for. Learn topics like web development, data analyses and more in a fun and engaging way.Currently, you can find courses published by Maximilian Schwarzmüller and Manuel Lorenz, more instructors to come!Keep learning!",
+        "total_student": "1,601,429",
+        "review": "386,862",
+        "rate": "4.4",
+        "course": 12
+    },
+    {
+        "key": 4,
+        "instructor_name": "Stephen Grider",
+        "instractor_image": "https://img-c.udemycdn.com/user/200_H/5487312_0554.jpg",
+        "description": "Stephen Grider has been building complex Javascript front ends for top corporations in the San Francisco Bay Area.  With an innate ability to simplify complex topics, Stephen has been mentoring engineers beginning their careers in software development for years, and has now expanded that experience onto Udemy, authoring the highest rated React course. He teaches on Udemy to share the knowledge he has gained with other software engineers.  Invest in yourself by learning from Stephen's published courses.",
+        "total_student": "886,478",
+        "review": "324,750",
+        "rate": "4.8",
+        "course": 10
+    },
+    {
+        "key": 5,
+        "instructor_name": "Colt Steele",
+        "instractor_image": "https://img-c.udemycdn.com/user/200_H/4466306_6fd8_3.jpg",
+        "description": "Hi! I'm Colt. I'm a developer with a serious love for teaching. I've spent the last few years teaching people to program at 2 different immersive bootcamps where I've helped hundreds of people become web developers and change their lives. My graduates work at companies like Google, Salesforce, and Square.",
+        "total_student": "1,083,766",
+        "review": "347,231",
+        "rate": "4.8",
+        "course": 11
+    },
+    {
+        "key": 6,
+        "instructor_name": "Jonas Schmedtmann",
+        "instractor_image": "https://img-c.udemycdn.com/user/200_H/7799204_2091_5.jpg",
+        "description": "Hi, I'm Jonas! I have been identified as one of Udemy's Top Instructors and all my premium courses have earned the best-selling status for outstanding performance and student satisfaction.I'm a full-stack web developer and designer with a passion for building beautiful things from scratch. I've been building websites and apps since 2010 and also have a Master's degree in Engineering.",
+        "total_student": "1,159,635",
+        "review": "347,231",
+        "rate": "4.3",
+        "course": 15
+    },
+    {
+        "key": 7,
+        "instructor_name": "Tim Buchalka",
+        "instractor_image": "https://img-c.udemycdn.com/user/200_H/599932_71aa_5.jpg",
+        "description": "Tim's been a professional software developer for close to 40 years.  During his career, he has worked for major companies such as Fujitsu, Mitsubishi, and Saab. His video courses are used to train developers in major companies such as Mercedes-Benz, Paypal, VW, Pitney Bowes, IBM, and T-Mobile just to name a few (via the Udemy for Business program).",
+        "total_student": "1,032,611",
+        "review": "269,973",
+        "rate": "2.3",
+        "course": 9
+    },
+    {
+        "key": 8,
+        "instructor_name": "Omprakash Chavan",
+        "instractor_image": "https://img-c.udemycdn.com/user/200_H/86411800_3aec.jpg",
+        "description": "Hi! I'm Om. I'm a Test Automation Lead who loves automating and testing software.  I've been working in Software Testing and and Test Automation for more than a decade. I love automating stuff and I'm very passionate about spreading knowledge through teaching.",
+        "total_student": "5,609",
+        "review": "915",
+        "rate": "3.3",
+        "course": 6
+    },
+    {
+        "key": 9,
+        "instructor_name": "Hadelin de Ponteves",
+        "instractor_image": "https://img-c.udemycdn.com/user/200_H/22113450_6fb5_3.jpg",
+        "description": "Hadelin is the co-founder and CEO at BlueLife AI, which leverages the power of cutting edge Artificial Intelligence to empower businesses to make massive profits by innovating, automating processes and maximizing efficiency. Hadelin is also an online entrepreneur who has created top-rated educational e-courses to the world on topics such as Machine Learning, Artificial Intelligence and Blockchain.",
+        "total_student": "1,384,741",
+        "review": "264,437",
+        "rate": "4.3",
+        "course": 22
     }
 ]
