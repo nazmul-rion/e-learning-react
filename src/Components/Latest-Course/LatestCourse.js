@@ -1,5 +1,4 @@
 import React from 'react'
-import DevIMG from '../../images/CategoriesIMG/development.png'
 import CourseCard from '../CourseCard/CourseCard'
 import CourseLists from '../Hooks/CourseLists'
 const LatestCourse = () => {

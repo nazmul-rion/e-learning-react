@@ -4,11 +4,11 @@ const CourseCard = (props) => {
     const { course_name, courseimg, teacherimg, instructor, rating, raters, price } = props.course;
     return (
 
-        <div class="col">
+        <div className="col">
             <div className="custom-card h-100">
-                <img src={courseimg} class="card-img-top p-3" alt="..." />
-                <div class="card-body">
-                    <h5 class="card-title">{course_name}</h5>
+                <img src={courseimg} className="card-img-top p-3" alt="..." />
+                <div className="card-body">
+                    <h5 className="card-title">{course_name}</h5>
                     <div className="d-flex justify-content-between align-items-center">
                         <div className="d-flex align-items-center">
                             <img className="w-25 rounded-circle me-2" src={teacherimg} alt="" />
