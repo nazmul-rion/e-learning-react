@@ -10,7 +10,7 @@ const NotFoundPage = () => {
                 <img className="img-fluid w-75" src={img} alt="" />
             </div>
             <div>
-                <Link className="btn btn-primary" to="/">Back To Home</Link>
+                <Link className="btn btn-primary my-3" to="/">Back To Home</Link>
             </div>
         </div>
     )

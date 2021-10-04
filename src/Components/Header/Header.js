@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import Logo from '../../images/logo.png'
 import './Header.css'
 
 const Header = () => {
@@ -7,7 +8,9 @@ const Header = () => {
         <div>
             <nav className="navbar navbar-expand-lg navbar-light bg-custom-primary">
                 <div className="container-fluid">
-                    <Link className="navbar-brand" to="/">E Learning</Link>
+                    <Link className="navbar-brand" to="/">
+                        <img src={Logo} className="d-inline-block align-text-top me-2" style={{ width: "30px", height: "30px" }} />
+                        E Learning</Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
@@ -23,7 +26,7 @@ const Header = () => {
                                 <Link className="nav-link" to="/contactUs">Contact Us</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/instractor-profile">Instractor Profile</Link>
+                                <Link className="nav-link" to="/instractor-profile">Our Instractor</Link>
                             </li>
                         </ul>
                         {

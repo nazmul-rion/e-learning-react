@@ -1,0 +1,80 @@
+[
+    {
+        "key": 1,
+        "course_name": "The Complete 2021 Web Development Bootcamp",
+        "instructor": "Dr. Angela Yu",
+        "courseimg": "https://img-c.udemycdn.com/course/240x135/1565838_e54e_12.jpg",
+        "teacherimg": "https://img-c.udemycdn.com/user/75x75/31334738_a13c_2.jpg",
+        "rating": 4.7,
+        "raters": 150810,
+        "description": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
+        "price": 13.99,
+        "total_houre": 18,
+        "lecture": 100
+    },
+    {
+        "key": 2,
+        "course_name": "2021 Complete Python Bootcamp From in Python",
+        "instructor": "Jose Portilla",
+        "courseimg": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg",
+        "teacherimg": "https://img-c.udemycdn.com/user/200_H/9685726_67e7_4.jpg",
+        "rating": 4.6,
+        "raters": 383943,
+        "price": 15.99,
+        "description": "Learn Python like a Professional  Start from the basics and go all the way to creating your own applications and games",
+        "total_houre": 22,
+        "lecture": 155
+    },
+    {
+        "key": 3,
+        "course_name": "Modern React with Redux",
+        "instructor": "Stephen Grider",
+        "courseimg": "https://img-c.udemycdn.com/course/240x135/705264_caa9_11.jpg",
+        "teacherimg": "https://img-c.udemycdn.com/user/200_H/5487312_0554.jpg",
+        "rating": 4.7,
+        "raters": 71181,
+        "price": 19.99,
+        "description": "Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
+        "total_houre": 22,
+        "lecture": 155
+    },
+    {
+        "key": 4,
+        "course_name": "The Git & Github Bootcamp",
+        "instructor": "Colt Steele",
+        "courseimg": "https://img-c.udemycdn.com/course/240x135/3792262_6b0c_2.jpg",
+        "teacherimg": "https://img-c.udemycdn.com/user/200_H/4466306_6fd8_3.jpg",
+        "rating": 4.8,
+        "raters": 4016,
+        "price": 12.99,
+        "description": "Master the essentials and the tricky bits: rebasing, squashing, stashing, reflogs, blobs, trees, & more!",
+        "total_houre": 25,
+        "lecture": 160
+    },
+    {
+        "key": 5,
+        "course_name": "Data Structures & Algorithms",
+        "instructor": "Abdul Bari",
+        "courseimg": "https://img-c.udemycdn.com/course/240x135/2121018_9de5_5.jpg",
+        "teacherimg": "https://img-c.udemycdn.com/user/200_H/27878376_ce40_3.jpg",
+        "rating": 4.6,
+        "raters": 21374,
+        "price": 11.99,
+        "description": "Learn, Analyse and Implement Data Structure using C and C++. Learn Recursion and Sorting.",
+        "total_houre": 12,
+        "lecture": 95
+    },
+    {
+        "key": 6,
+        "course_name": "Angular - The Complete Guide",
+        "instructor": "Maximilian Schwarzmüller",
+        "courseimg": "https://img-c.udemycdn.com/course/240x135/756150_c033_2.jpg",
+        "teacherimg": "https://img-c.udemycdn.com/user/200_H/13952972_e853.jpg",
+        "rating": 4.6,
+        "raters": 152761,
+        "price": 16.58,
+        "description": "Master Angular 12 (formerly \"Angular 2\") and build awesome, reactive web apps with the successor of Angular.js",
+        "total_houre": 34,
+        "lecture": 461
+    }
+]
